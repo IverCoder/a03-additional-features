@@ -1,4 +1,4 @@
-<sup>SPDX-FileCopyrightText: 2024 IverCoder <https://github.com/IverCoder></sup>
+<sup>SPDX-FileCopyrightText: 2024 IverCoder \<https://github.com/IverCoder\></sup>
 
 <sup>SPDX-License-Identifier: CC0-1.0</sup>
 
