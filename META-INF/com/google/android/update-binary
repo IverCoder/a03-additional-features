@@ -1,5 +1,9 @@
 #!/sbin/sh
 
+# SPDX-FileCopyrightText: 2020 John Wu <https://github.com/topjohnwu>
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 #################
 # Initialization
 #################
