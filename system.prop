@@ -1,0 +1,4 @@
+fw.max_users=5
+fw.show_multiuserui=1
+fw.showhiddenusers=1 
+fw.poweruserswitcher=1
